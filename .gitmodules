@@ -1,0 +1,12 @@
+[submodule "themes/hugo-notepadium"]
+	path = themes/hugo-notepadium
+	url = https://github.com/cntrump/hugo-notepadium.git
+[submodule "themes/themes/anatole"]
+	path = themes/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "public"]
+	path = public
+	url = https://github.com/alexsieusahai/alexsieusahai.github.io

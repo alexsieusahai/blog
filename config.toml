@@ -1,0 +1,66 @@
+baseURL = "https://alexsieusahai.github.io"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Alex Sieusahai's Notes"
+theme = "anatole"
+summarylength = 20
+enableEmoji = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+[params]
+title = "Making hard stuff a little easier"
+author = "Alex Sieusahai"
+description = "My Notes on Math, Stats, Reinforcement Learning and Machine Learning."
+profilePicture = "images/profile.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+mainSections = ["post"]
+
+## Math settings
+[params.math]
+enable = true # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "mathjax"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/alexsieusahai"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/alexsieusahai"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "alexsieu14@gmail.com"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
