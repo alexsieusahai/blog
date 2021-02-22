@@ -13,7 +13,7 @@ enableEmoji = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "Figuring out hard stuff"
+title = "Alex Sieusahai's Blog"
 author = "Alex Sieusahai"
 description = "My Notes on Math, Stats, Reinforcement Learning and Machine Learning."
 profilePicture = "images/profile.jpg"
