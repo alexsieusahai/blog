@@ -10,3 +10,9 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/alexsieusahai/alexsieusahai.github.io
+[submodule "public/alexsieusahai.github.io"]
+	path = public/alexsieusahai.github.io
+	url = https://github.com/alexsieusahai/alexsieusahai.github.io
+[submodule "alexsieusahai.github.io"]
+	path = alexsieusahai.github.io
+	url = https://github.com/alexsieusahai/alexsieusahai.github.io

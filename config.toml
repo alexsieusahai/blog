@@ -1,7 +1,7 @@
 baseURL = "https://alexsieusahai.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Alex Sieusahai's Notes"
+title = "Alex Sieusahai's Blog"
 theme = "anatole"
 summarylength = 20
 enableEmoji = true
@@ -15,7 +15,7 @@ enableEmoji = true
 [params]
 title = "Alex Sieusahai's Blog"
 author = "Alex Sieusahai"
-description = "My Notes on Math, Stats, Reinforcement Learning and Machine Learning."
+description = "My Notes on various things I've learned"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
